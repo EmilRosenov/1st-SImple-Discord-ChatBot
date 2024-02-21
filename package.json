@@ -1,0 +1,20 @@
+{
+  "name": "emooo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "emo": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord.js": "^13.0.0",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.0.3",
+    "openai": "^4.28.0"
+  }
+}

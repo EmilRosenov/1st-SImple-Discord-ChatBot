@@ -1,4 +1,4 @@
-![Contributors](https://github.com/EmilRosenov)
+![Contributors]([https://github.com/EmilRosenov](https://github.com/account))
 ## 1st-SImple-Discord-ChatBot
 Hi this is my first own made simple discord chatbot! I hope you enjoy it!
 

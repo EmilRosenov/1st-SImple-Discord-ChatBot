@@ -3,10 +3,10 @@
 Discord Chatbot README
 #####################################
 
-#Introduction
+##Introduction
 This Discord chatbot is designed to interact with users in Discord channels, providing various functionalities including responding to Slash ('/') commands like '/ping' and '/hi' and engaging in conversational exchanges. It leverages the Discord.js library for Discord interactions and integrates with the OpenAI API for engaging in conversations.
 
-#Features
+##Features
 Message Handling: The bot handles messages from users in Discord channels.
 Conversation Management: It maintains conversation history with users and responds accordingly.
 OpenAI Integration: The bot utilizes the OpenAI API for generating images and engaging in conversational interactions.

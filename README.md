@@ -31,20 +31,24 @@ Follow these steps to set up and run the bot locally.
    npm run nodemon
 
 ## Commands
+
 **/hi: Greet the bot and receive a friendly response.**
 **/ping: Get a quick "Pong!" reply.**
 **/server: Retrieve information about the Discord server.**
 **/user: Get information about the user.**
 
 ## Testing
+
 **npm run tests**
 **npm run ping**
 **npm run hi**
 
 ## Contributing
+
 **Feel free to contribute by opening issues or submitting pull requests. Your ideas and improvements are welcome!**
 
-##License
+## License
+
 **This project is licensed under the ISC License.**
 
 **Feel free to customize the content based on your specific project details and preferences. If you have any additional information or preferences you'd like to include, let me know!**
